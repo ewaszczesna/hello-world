@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hello humans! I am Ewa - I am in love with garlic butter and white wine.
